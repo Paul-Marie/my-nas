@@ -8,7 +8,8 @@ You must use **VMWare workstation 14.x**
 | --------------- |:------------------------------------------------------------------------------------------:| :-----------:|
 | [my_nas](https://mega.nz/fm/66IEBDTS) | Base **2.5 / 2.5** : Gateway **2 / 2** : Gestion du domaine **5 / 5**</br> Gestion de l'adressage **3.5 / 3.5** : Service de mail **7 / 7** </br> NAS - Accès & Utilisateurs **5 / 5** : NAS - Espace de stockage **6 / 6** | **31** |
 
-| VM's name   | Link |
+| VM's name   | Link                                                                                 |
+| ----------- |:------------------------------------------------------------------------------------:|
 | my-dns      | [Click here](https://mega.nz/#!mvZFhaLY!rYTrgeA8Qn5-K3RXRisO6e5VuV3kNJYiFi9PeL9Hvog) |
 | my-employee | [Click here](https://mega.nz/#!DrAVUAjB!APvqV3S89qbHYpUOCmPvKPTg9i-vq0VEsMl9xBpMQf4) |
 | my-gateway  | [Click here](https://mega.nz/#!v6ADBSLZ!xD7WQF-IMra89EjF13U1wzz-nijwO8lLmWi95FPFQvs) |
